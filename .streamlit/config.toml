@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#00BFFF"            # Tesla neon blue accents
+backgroundColor = "#0A0A0A"         # Deep black background
+secondaryBackgroundColor = "#121212" # Slight contrast for sidebar/cards
+textColor = "#EAEAEA"               # Soft white text
+font = "sans serif"
